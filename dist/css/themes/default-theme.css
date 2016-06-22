@@ -2,6 +2,10 @@
 Template Design By MarkUps.
 Author URI : http://www.markups.io/
 ========================================*/
+.fa {
+    font-size: 1.5em;
+    color: white
+}
 a {
   color: #ba68c8;
 }
